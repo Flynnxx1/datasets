@@ -1,7 +1,7 @@
 ﻿Region;Country;Status;Year;Alpha3code;Latitude;Longitude;Public Opinion Equality Index;LegalEqualityIndex;Category;Rank;LGBT-friendlyRank
 Antarctica;Antarctica;Varied, unclear, or unknown laws;;ATA;-90;0;;;Varied, unclear, or unknown laws;8;
 Oceania;Micronesia;Same-sex marriage is unrecognized;;FSM;69.167;158.25;53;;Unrecognized;6;63
-Africa;Congo, the Democratic Republic of;Same-sex marriage is banned;2006;COD;0;25;24;38;Illegal;7;135
+Africa;D.R.Congo;Same-sex marriage is banned;2006;COD;0;25;24;38;Illegal;7;135
 Africa;Côte d’Ivoire;Same-sex marriage is banned;2019;CIV;8;-5;32;32;Illegal;7;136
 Europe;Iceland;Same-sex marriage is legal;2010;ISL;65;-18;98;90;Legal;0;1
 Europe;Norway;Same-sex marriage is legal;2009;NOR;62;10;87;87;Legal;0;2
@@ -160,7 +160,7 @@ Africa;Mali;Same-sex marriage is banned;2011;MLI;17;-4;4;10;Illegal;7;184
 Africa;Burundi;Same-sex marriage is banned;2005;BDI;-3.5;30;10;10;Illegal;7;175
 Asia;Qatar;Same-sex marriage is banned;1915;QAT;25.5;51.25;4;9;Illegal;7;187
 Africa;Burkina Faso;Same-sex marriage is banned;1991;BFA;13;-2;29;9;Illegal;7;151
-North America;Saint Vincent and the Grenadines;Same-sex marriage is unrecognized;;VCT;13.25;-61.2;23;8;Unrecognized;6;158
+North America;Saint Vincent;Same-sex marriage is unrecognized;;VCT;13.25;-61.2;23;8;Unrecognized;6;158
 Africa;Nigeria;Same-sex marriage is banned;2014;NGA;10;8;7;8;Illegal;7;182
 Asia;Maldives;Same-sex marriage is banned;2015;MDV;3.25;73;3;8;Illegal;7;189
 Europe;Moldova;Same-sex marriage is banned;1994;MDA;47;29;64;8;Illegal;7;104

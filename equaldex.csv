@@ -1,15 +1,15 @@
 ﻿Region;Country;Status;Year;Alpha3code;Latitude;Longitude;Public Opinion Equality Index;LegalEqualityIndex;Category;Rank;LGBT-friendlyRank
 Antarctica;Antarctica;Varied, unclear, or unknown laws;;ATA;-90;0;;;Varied, unclear, or unknown laws;8;
 Oceania;Micronesia;Same-sex marriage is unrecognized;;FSM;69.167;158.25;53;;Unrecognized;6;63
-Africa;D.R.Congo;Same-sex marriage is banned;2006;COD;0;25;24;38;Illegal;7;135
-Africa;Côte d’Ivoire;Same-sex marriage is banned;2019;CIV;8;-5;32;32;Illegal;7;136
+Africa;D.R.Congo;Same-sex marriage is banned;2006;COD;0;25;24;38;Banned;7;135
+Africa;Côte d’Ivoire;Same-sex marriage is banned;2019;CIV;8;-5;32;32;Banned;7;136
 Europe;Iceland;Same-sex marriage is legal;2010;ISL;65;-18;98;90;Legal;0;1
 Europe;Norway;Same-sex marriage is legal;2009;NOR;62;10;87;87;Legal;0;2
-Africa;Cape Verde;Same-sex marriage is banned;1968;CPV;16;-24;49;80;Illegal;7;40
+Africa;Cape Verde;Same-sex marriage is banned;1968;CPV;16;-24;49;80;Banned;7;40
 Europe;Andorra;Same-sex marriage is legal;2023;AND;42.5;1.6;86;74;Legal;0;7
 South America;Uruguay;Same-sex marriage is legal;2013;URY;-33;-56;93;73;Legal;0;4
 Europe;San Marino;Same-sex marriage is Civil unions (marriage rights);2018;SMR;437.667;124.167;64;71;Civil unions (marriage rights);1;33
-North America;Barbados;Same-sex marriage is banned;1979;BRB;131.667;-595.333;42;71;Illegal;7;51
+North America;Barbados;Same-sex marriage is banned;1979;BRB;131.667;-595.333;42;71;Banned;7;51
 North America;Cuba;Same-sex marriage is legal;2022;CUB;21.5;-80;81;70;Legal;0;15
 Asia;Thailand;Same-sex marriage is legal;2025;THA;15;100;68;68;Legal;0;31
 Europe;Liechtenstein;Same-sex marriage is legal;2025;LIE;471.667;95.333;69;68;Legal;0;30
@@ -30,7 +30,7 @@ Europe;Belgium;Same-sex marriage is legal;2003;BEL;508.333;4;87;61;Legal;0;20
 Oceania;Australia;Same-sex marriage is legal;2017;AUS;-27;133;91;61;Legal;0;14
 South America;Argentina;Same-sex marriage is legal;2010;ARG;-34;-64;88;61;Legal;0;18
 Europe;Italy;Same-sex marriage is Civil unions (marriage rights);2016;ITA;428.333;128.333;75;60;Civil unions (marriage rights);1;34
-Asia;Timor-Leste;Same-sex marriage is banned;2011;TLS;-8.55;1.255.167;49;60;Illegal;7;56
+Asia;Timor-Leste;Same-sex marriage is banned;2011;TLS;-8.55;1.255.167;49;60;Banned;7;56
 Africa;South Africa;Same-sex marriage is legal;2006;ZAF;-29;24;84;59;Legal;0;26
 Europe;Portugal;Same-sex marriage is legal;2010;PRT;39.5;-8;93;59;Legal;0;12
 Europe;Ireland;Same-sex marriage is legal;2015;IRL;53;-8;85;59;Legal;0;24
@@ -39,10 +39,10 @@ Europe;Austria;Same-sex marriage is legal;2019;AUT;473.333;133.333;91;59;Legal;0
 North America;Mexico;Same-sex marriage is legal;2022;MEX;23;-102;85;57;Legal;0;27
 South America;Brazil;Same-sex marriage is legal;2013;BRA;-10;-55;97;57;Legal;0;11
 Europe;Czechia;Same-sex marriage is Civil unions (marriage rights);2025;CZE;49.75;15.5;75;57;Civil unions (marriage rights);1;36
-Asia;Philippines;Same-sex marriage is banned;1988;PHL;13;122;55;57;Illegal;7;54
+Asia;Philippines;Same-sex marriage is banned;1988;PHL;13;122;55;57;Banned;7;54
 North America;United States;Same-sex marriage is legal;2015;USA;38;-97;80;56;Legal;0;32
 Europe;United Kingdom;Same-sex marriage is legal;2020;GBR;54;-2;82;56;Legal;0;29
-South America;Venezuela;Same-sex marriage is banned;1999;VEN;8;-66;50;56;Illegal;7;65
+South America;Venezuela;Same-sex marriage is banned;1999;VEN;8;-66;50;56;Banned;7;65
 Asia;India;Same-sex marriage is unregistered cohabitation;2023;IND;20;77;61;55;Unregistered cohabitation;5;49
 Asia;Israel;Same-sex marriage is Civil unions (marriage rights);2022;ISR;31.5;34.75;76;54;Civil unions (marriage rights);1;39
 Africa;Mauritius;Same-sex marriage is unrecognized;;MUS;-202.833;57.55;55;53;Unrecognized;6;59
@@ -50,132 +50,132 @@ South America;Guyana;Same-sex marriage is unrecognized;;GUY;5;-59;24;53;Unrecogn
 Africa;Botswana;Same-sex marriage is unrecognized;;BWA;-22;24;59;53;Unrecognized;6;53
 North America;Belize;Same-sex marriage is unrecognized;;BLZ;17.25;-88.75;55;53;Unrecognized;6;60
 Europe;Malta;Same-sex marriage is legal;2017;MLT;358.333;145.833;100;53;Legal;0;13
-Asia;Japan;Same-sex marriage is banned;1947;JPN;36;138;58;53;Illegal;7;55
+Asia;Japan;Same-sex marriage is banned;1947;JPN;36;138;58;53;Banned;7;55
 Europe;Luxembourg;Same-sex marriage is legal;2015;LUX;49.75;61.667;81;52;Legal;0;35
 South America;Colombia;Same-sex marriage is legal;2016;COL;4;-72;95;52;Legal;0;22
 Europe;Monaco;Same-sex marriage is Civil unions (limited rights);2020;MCO;437.333;7.4;55;51;Civil unions (limited rights);2;66
-Asia;Singapore;Same-sex marriage is banned;2018;SGP;13.667;103.8;42;51;Illegal;7;83
+Asia;Singapore;Same-sex marriage is banned;2018;SGP;13.667;103.8;42;51;Banned;7;83
 Asia;Bhutan;Same-sex marriage is unrecognized;;BTN;27.5;90.5;57;50;Unrecognized;6;61
-Asia;Vietnam;Same-sex marriage is banned;2015;VNM;16;106;52;49;Illegal;7;68
-Asia;Cambodia;Same-sex marriage is banned;;KHM;13;105;45;49;Illegal;7;79
+Asia;Vietnam;Same-sex marriage is banned;2015;VNM;16;106;52;49;Banned;7;68
+Asia;Cambodia;Same-sex marriage is banned;;KHM;13;105;45;49;Banned;7;79
 Asia;Taiwan;Same-sex marriage is legal;2019;TWN;23.5;121;73;48;Legal;0;45
 Europe;Slovenia;Same-sex marriage is legal;2022;SVN;46;15;84;48;Legal;0;38
 North America;Costa Rica;Same-sex marriage is legal;2020;CRI;10;-84;83;48;Legal;0;37
-Asia;Laos;Same-sex marriage is banned;1990;LAO;18;105;47;47;Illegal;7;80
-South America;Peru;Same-sex marriage is banned;1984;PER;-10;-76;61;46;Illegal;7;62
+Asia;Laos;Same-sex marriage is banned;1990;LAO;18;105;47;47;Banned;7;80
+South America;Peru;Same-sex marriage is banned;1984;PER;-10;-76;61;46;Banned;7;62
 Europe;Poland;Same-sex marriage is unregistered cohabitation;2012;POL;52;20;61;45;Unregistered cohabitation;5;64
 Africa;Sao Tome and Principe;Same-sex marriage is unrecognized;;STP;1;7;50;44;Unrecognized;6;77
-Africa;Mozambique;Same-sex marriage is banned;2004;MOZ;-18.25;35;49;44;Illegal;7;84
+Africa;Mozambique;Same-sex marriage is banned;2004;MOZ;-18.25;35;49;44;Banned;7;84
 Europe;Estonia;Same-sex marriage is legal;2024;EST;59;26;80;43;Legal;0;43
 Africa;Namibia;Same-sex marriage is foreign same-sex marriages recognized only;2023;NAM;-22;17;54;42;Foreign same-sex marriages recognized only;4;76
-Asia;Bahrain;Same-sex marriage is banned;;BHR;26;50.55;31;42;Illegal;7;103
+Asia;Bahrain;Same-sex marriage is banned;;BHR;26;50.55;31;42;Banned;7;103
 Asia;South Korea;Same-sex marriage is foreign same-sex marriages recognized only;2019;KOR;37;127.5;60;41;Foreign same-sex marriages recognized only;4;69
 Europe;Hungary;Same-sex marriage is Civil unions (marriage rights);2009;HUN;47;20;60;41;Civil unions (marriage rights);1;67
 South America;Ecuador;Same-sex marriage is legal;2019;ECU;-2;-77.5;88;40;Legal;0;42
-Africa;Angola;Same-sex marriage is banned;2019;AGO;-12.5;18.5;50;40;Illegal;7;87
+Africa;Angola;Same-sex marriage is banned;2019;AGO;-12.5;18.5;50;40;Banned;7;87
 Europe;Greece;Same-sex marriage is legal;2024;GRC;39;22;90;39;Legal;0;41
 South America;Bolivia;Same-sex marriage is Civil unions (marriage rights);2020;BOL;-17;-65;85;39;Civil unions (marriage rights);1;44
-Europe;Bosnia and Herzegovina;Same-sex marriage is banned;;BIH;44;18;60;39;Illegal;7;71
+Europe;Bosnia and Herzegovina;Same-sex marriage is banned;;BIH;44;18;60;39;Banned;7;71
 Asia;Sri Lanka;Same-sex marriage is unrecognized;;LKA;7;81;24;37;Unrecognized;6;117
-North America;Nicaragua;Same-sex marriage is banned;1987;NIC;13;-85;45;37;Illegal;7;91
+North America;Nicaragua;Same-sex marriage is banned;1987;NIC;13;-85;45;37;Banned;7;91
 Europe;Cyprus;Same-sex marriage is Civil unions (marriage rights);2015;CYP;35;33;81;36;Civil unions (marriage rights);1;48
 Europe;Montenegro;Same-sex marriage is Civil unions (limited rights);2021;MNE;42;19;72;36;Civil unions (limited rights);2;57
-Europe;Ukraine;Same-sex marriage is banned;1996;UKR;49;32;57;36;Illegal;7;82
-Europe;Turkey;Same-sex marriage is banned;;TUR;39;35;35;36;Illegal;7;107
+Europe;Ukraine;Same-sex marriage is banned;1996;UKR;49;32;57;36;Banned;7;82
+Europe;Turkey;Same-sex marriage is banned;;TUR;39;35;35;36;Banned;7;107
 Europe;Latvia;Same-sex marriage is Civil unions (limited rights);2024;LVA;57;25;62;35;Civil unions (limited rights);2;73
-Oceania;Vanuatu;Same-sex marriage is banned;2024;VUT;-16;167;43;34;Illegal;7;95
-Europe;Serbia;Same-sex marriage is banned;2006;SRB;44;21;62;34;Illegal;7;75
-Europe;Romania;Same-sex marriage is banned;2009;ROU;46;25;55;34;Illegal;7;86
-Europe;North Macedonia;Same-sex marriage is banned;1992;MKD;418.333;22;61;34;Illegal;7;78
+Oceania;Vanuatu;Same-sex marriage is banned;2024;VUT;-16;167;43;34;Banned;7;95
+Europe;Serbia;Same-sex marriage is banned;2006;SRB;44;21;62;34;Banned;7;75
+Europe;Romania;Same-sex marriage is banned;2009;ROU;46;25;55;34;Banned;7;86
+Europe;North Macedonia;Same-sex marriage is banned;1992;MKD;418.333;22;61;34;Banned;7;78
 Europe;Slovakia;Same-sex marriage is unregistered cohabitation;2018;SVK;486.667;19.5;66;33;Unregistered cohabitation;5;70
 Europe;Kosovo;Same-sex marriage is unrecognized;2006;XKX;426.026;20.902;63;33;Unrecognized;6;74
 Europe;Croatia;Same-sex marriage is Civil unions (marriage rights);2014;HRV;451.667;15.5;79;33;Civil unions (marriage rights);1;52
-North America;El Salvador;Same-sex marriage is banned;1815;SLV;138.333;-889.167;43;33;Illegal;7;99
+North America;El Salvador;Same-sex marriage is banned;1815;SLV;138.333;-889.167;43;33;Banned;7;99
 Africa;Eswatini;Same-sex marriage is unrecognized;;SWZ;-265.225;314.659;28;32;Unrecognized;6;118
-Africa;Rwanda;Same-sex marriage is banned;2003;RWA;-2;30;40;32;Illegal;7;106
+Africa;Rwanda;Same-sex marriage is banned;2003;RWA;-2;30;40;32;Banned;7;106
 Asia;Pakistan;Same-sex marriage is unrecognized;;PAK;30;70;31;31;Unrecognized;6;116
-Asia;Bangladesh;Same-sex marriage is banned;1860;BGD;24;90;15;31;Illegal;7;138
-North America;Panama;Same-sex marriage is banned;1972;PAN;9;-80;47;30;Illegal;7;97
-North America;Dominican Republic;Same-sex marriage is banned;2021;DOM;19;-706.667;43;30;Illegal;7;102
-Europe;Albania;Same-sex marriage is banned;2003;ALB;41;20;62;30;Illegal;7;85
+Asia;Bangladesh;Same-sex marriage is banned;1860;BGD;24;90;15;31;Banned;7;138
+North America;Panama;Same-sex marriage is banned;1972;PAN;9;-80;47;30;Banned;7;97
+North America;Dominican Republic;Same-sex marriage is banned;2021;DOM;19;-706.667;43;30;Banned;7;102
+Europe;Albania;Same-sex marriage is banned;2003;ALB;41;20;62;30;Banned;7;85
 Africa;Lesotho;Same-sex marriage is unrecognized;;LSO;-29.5;28.5;57;29;Unrecognized;6;88
-Asia;Malaysia;Same-sex marriage is banned;1826;MYS;2.5;112.5;8;29;Illegal;7;155
-North America;Guatemala;Same-sex marriage is banned;1963;GTM;15.5;-90.25;49;29;Illegal;7;94
-South America;Paraguay;Same-sex marriage is banned;1992;PRY;-23;-58;41;28;Illegal;7;109
+Asia;Malaysia;Same-sex marriage is banned;1826;MYS;2.5;112.5;8;29;Banned;7;155
+North America;Guatemala;Same-sex marriage is banned;1963;GTM;15.5;-90.25;49;29;Banned;7;94
+South America;Paraguay;Same-sex marriage is banned;1992;PRY;-23;-58;41;28;Banned;7;109
 North America;Trinidad and Tobago;Same-sex marriage is unrecognized;;TTO;11;-61;27;27;Unrecognized;6;127
 Asia;Myanmar;Same-sex marriage is unrecognized;;MMR;22;98;12;27;Unrecognized;6;149
-Asia;Syria;Same-sex marriage is banned;1949;SYR;35;38;10;27;Illegal;7;153
-North America;Honduras;Same-sex marriage is banned;1984;HND;15;-86.5;52;27;Illegal;7;93
-Europe;Bulgaria;Same-sex marriage is banned;1991;BGR;43;25;52;27;Illegal;7;92
+Asia;Syria;Same-sex marriage is banned;1949;SYR;35;38;10;27;Banned;7;153
+North America;Honduras;Same-sex marriage is banned;1984;HND;15;-86.5;52;27;Banned;7;93
+Europe;Bulgaria;Same-sex marriage is banned;1991;BGR;43;25;52;27;Banned;7;92
 Europe;Lithuania;Same-sex marriage is Civil unions (limited rights);2025;LTU;56;24;68;26;Civil unions (limited rights);2;81
-Africa;Guinea-Bissau;Same-sex marriage is banned;;GNB;12;-15;50;24;Illegal;7;101
+Africa;Guinea-Bissau;Same-sex marriage is banned;;GNB;12;-15;50;24;Banned;7;101
 South America;Suriname;Same-sex marriage is foreign same-sex marriages recognized only;2025;SUR;4;-56;61;23;Foreign same-sex marriages recognized only;4;90
-Europe;Russia;Same-sex marriage is banned;1995;RUS;60;100;32;23;Illegal;7;128
-Asia;United Arab Emirates;Same-sex marriage is banned;;ARE;24;54;0;23;Illegal;7;172
-Asia;Saudi Arabia;Same-sex marriage is banned;;SAU;25;45;3;22;Illegal;7;168
-Asia;Iraq;Same-sex marriage is banned;;IRQ;33;44;3;22;Illegal;7;167
-Africa;Republic of the Congo;Same-sex marriage is banned;1984;COG;-1;15;45;22;Illegal;7;112
-Asia;Mongolia;Same-sex marriage is banned;1992;MNG;46;105;63;21;Illegal;7;89
-Africa;Ghana;Same-sex marriage is banned;1960;GHA;8;-2;20;21;Illegal;7;145
-Africa;Sudan;Same-sex marriage is banned;1991;SDN;15;30;10;19;Illegal;7;163
-Africa;Madagascar;Same-sex marriage is banned;2007;MDG;-20;47;40;19;Illegal;7;123
-Africa;Libya;Same-sex marriage is banned;1953;LBY;25;17;5;19;Illegal;7;170
-Asia;Lebanon;Same-sex marriage is banned;;LBN;338.333;358.333;18;19;Illegal;7;156
-Africa;Algeria;Same-sex marriage is banned;1966;DZA;28;3;4;19;Illegal;7;171
-Asia;Uzbekistan;Same-sex marriage is banned;;UZB;41;64;23;18;Illegal;7;143
-Africa;Uganda;Same-sex marriage is banned;2023;UGA;1;32;1;18;Illegal;7;180
-Africa;Mauritania;Same-sex marriage is banned;1983;MRT;20;-12;3;18;Illegal;7;174
-North America;Jamaica;Same-sex marriage is banned;2011;JAM;18.25;-77.5;26;18;Illegal;7;140
-Africa;Benin;Same-sex marriage is banned;2002;BEN;9.5;2.25;42;18;Illegal;7;119
+Europe;Russia;Same-sex marriage is banned;1995;RUS;60;100;32;23;Banned;7;128
+Asia;United Arab Emirates;Same-sex marriage is banned;;ARE;24;54;0;23;Banned;7;172
+Asia;Saudi Arabia;Same-sex marriage is banned;;SAU;25;45;3;22;Banned;7;168
+Asia;Iraq;Same-sex marriage is banned;;IRQ;33;44;3;22;Banned;7;167
+Africa;Republic of the Congo;Same-sex marriage is banned;1984;COG;-1;15;45;22;Banned;7;112
+Asia;Mongolia;Same-sex marriage is banned;1992;MNG;46;105;63;21;Banned;7;89
+Africa;Ghana;Same-sex marriage is banned;1960;GHA;8;-2;20;21;Banned;7;145
+Africa;Sudan;Same-sex marriage is banned;1991;SDN;15;30;10;19;Banned;7;163
+Africa;Madagascar;Same-sex marriage is banned;2007;MDG;-20;47;40;19;Banned;7;123
+Africa;Libya;Same-sex marriage is banned;1953;LBY;25;17;5;19;Banned;7;170
+Asia;Lebanon;Same-sex marriage is banned;;LBN;338.333;358.333;18;19;Banned;7;156
+Africa;Algeria;Same-sex marriage is banned;1966;DZA;28;3;4;19;Banned;7;171
+Asia;Uzbekistan;Same-sex marriage is banned;;UZB;41;64;23;18;Banned;7;143
+Africa;Uganda;Same-sex marriage is banned;2023;UGA;1;32;1;18;Banned;7;180
+Africa;Mauritania;Same-sex marriage is banned;1983;MRT;20;-12;3;18;Banned;7;174
+North America;Jamaica;Same-sex marriage is banned;2011;JAM;18.25;-77.5;26;18;Banned;7;140
+Africa;Benin;Same-sex marriage is banned;2002;BEN;9.5;2.25;42;18;Banned;7;119
 North America;Saint Lucia;Same-sex marriage is unrecognized;;LCA;138.833;-611.333;21;17;Unrecognized;6;154
 North America;Grenada;Same-sex marriage is unrecognized;;GRD;121.167;-616.667;22;17;Unrecognized;6;148
 North America;Antigua and Barbuda;Same-sex marriage is unrecognized;;ATG;17.05;-61.8;55;17;Unrecognized;6;105
-Asia;Yemen;Same-sex marriage is banned;1994;YEM;15;48;3;17;Illegal;7;178
-Africa;Kenya;Same-sex marriage is banned;2010;KEN;1;38;21;17;Illegal;7;152
+Asia;Yemen;Same-sex marriage is banned;1994;YEM;15;48;3;17;Banned;7;178
+Africa;Kenya;Same-sex marriage is banned;2010;KEN;1;38;21;17;Banned;7;152
 North America;Bahamas;Same-sex marriage is unrecognized;;BHS;24.25;-76;48;16;Unrecognized;6;113
-Oceania;Palau;Same-sex marriage is banned;2008;PLW;7.5;134.5;47;16;Illegal;7;115
-Africa;Gabon;Same-sex marriage is banned;2024;GAB;-1;11.75;40;16;Illegal;7;126
-Africa;Comoros;Same-sex marriage is banned;2005;COM;-121.667;44.25;13;16;Illegal;7;162
-Europe;Belarus;Same-sex marriage is banned;1996;BLR;53;28;38;16;Illegal;7;129
+Oceania;Palau;Same-sex marriage is banned;2008;PLW;7.5;134.5;47;16;Banned;7;115
+Africa;Gabon;Same-sex marriage is banned;2024;GAB;-1;11.75;40;16;Banned;7;126
+Africa;Comoros;Same-sex marriage is banned;2005;COM;-121.667;44.25;13;16;Banned;7;162
+Europe;Belarus;Same-sex marriage is banned;1996;BLR;53;28;38;16;Banned;7;129
 Africa;Tunisia;Same-sex marriage is unrecognized;;TUN;34;9;11;15;Unrecognized;6;166
 Africa;Morocco;Same-sex marriage is unrecognized;;MAR;32;-5;8;15;Unrecognized;6;173
 North America;Saint Kitts and Nevis;Same-sex marriage is unrecognized;;KNA;173.333;-62.75;49;15;Unrecognized;6;114
-Africa;Egypt;Same-sex marriage is banned;;EGY;27;30;5;15;Illegal;7;176
+Africa;Egypt;Same-sex marriage is banned;;EGY;27;30;5;15;Banned;7;176
 North America;Dominica;Same-sex marriage is unrecognized;;DMA;154.167;-613.333;45;14;Unrecognized;6;121
-Africa;Tanzania;Same-sex marriage is banned;1971;TZA;-6;35;10;14;Illegal;7;169
-Africa;Togo;Same-sex marriage is banned;1980;TGO;8;11.667;6;14;Illegal;7;177
-Africa;Ethiopia;Same-sex marriage is banned;2009;ETH;8;38;7;13;Illegal;7;179
-Africa;Chad;Same-sex marriage is banned;;TCD;15;19;15;12;Illegal;7;164
-Asia;Kyrgyzstan;Same-sex marriage is banned;1996;KGZ;41;75;34;12;Illegal;7;137
-Asia;Kazakhstan;Same-sex marriage is banned;2011;KAZ;48;68;39;12;Illegal;7;133
-Asia;Indonesia;Same-sex marriage is banned;1974;IDN;-5;120;30;12;Illegal;7;142
-Africa;Guinea;Same-sex marriage is banned;1988;GIN;11;-10;17;12;Illegal;7;161
-Europe;Georgia;Same-sex marriage is banned;;GEO;42;43.5;46;12;Illegal;7;124
-Africa;Cameroon;Same-sex marriage is banned;1967;CMR;6;12;3;12;Illegal;7;181
+Africa;Tanzania;Same-sex marriage is banned;1971;TZA;-6;35;10;14;Banned;7;169
+Africa;Togo;Same-sex marriage is banned;1980;TGO;8;11.667;6;14;Banned;7;177
+Africa;Ethiopia;Same-sex marriage is banned;2009;ETH;8;38;7;13;Banned;7;179
+Africa;Chad;Same-sex marriage is banned;;TCD;15;19;15;12;Banned;7;164
+Asia;Kyrgyzstan;Same-sex marriage is banned;1996;KGZ;41;75;34;12;Banned;7;137
+Asia;Kazakhstan;Same-sex marriage is banned;2011;KAZ;48;68;39;12;Banned;7;133
+Asia;Indonesia;Same-sex marriage is banned;1974;IDN;-5;120;30;12;Banned;7;142
+Africa;Guinea;Same-sex marriage is banned;1988;GIN;11;-10;17;12;Banned;7;161
+Europe;Georgia;Same-sex marriage is banned;;GEO;42;43.5;46;12;Banned;7;124
+Africa;Cameroon;Same-sex marriage is banned;1967;CMR;6;12;3;12;Banned;7;181
 North America;Haiti;Same-sex marriage is unrecognized;;HTI;19;-724.167;48;11;Unrecognized;6;122
-Africa;Zimbabwe;Same-sex marriage is banned;2013;ZWE;-20;30;16;11;Illegal;7;165
-Africa;Liberia;Same-sex marriage is banned;1973;LBR;6.5;-9.5;27;11;Illegal;7;150
+Africa;Zimbabwe;Same-sex marriage is banned;2013;ZWE;-20;30;16;11;Banned;7;165
+Africa;Liberia;Same-sex marriage is banned;1973;LBR;6.5;-9.5;27;11;Banned;7;150
 Africa;Niger;Same-sex marriage is unrecognized;;NER;16;8;42;10;Unrecognized;6;131
-Africa;Mali;Same-sex marriage is banned;2011;MLI;17;-4;4;10;Illegal;7;184
-Africa;Burundi;Same-sex marriage is banned;2005;BDI;-3.5;30;10;10;Illegal;7;175
-Asia;Qatar;Same-sex marriage is banned;1915;QAT;25.5;51.25;4;9;Illegal;7;187
-Africa;Burkina Faso;Same-sex marriage is banned;1991;BFA;13;-2;29;9;Illegal;7;151
+Africa;Mali;Same-sex marriage is banned;2011;MLI;17;-4;4;10;Banned;7;184
+Africa;Burundi;Same-sex marriage is banned;2005;BDI;-3.5;30;10;10;Banned;7;175
+Asia;Qatar;Same-sex marriage is banned;1915;QAT;25.5;51.25;4;9;Banned;7;187
+Africa;Burkina Faso;Same-sex marriage is banned;1991;BFA;13;-2;29;9;Banned;7;151
 North America;Saint Vincent;Same-sex marriage is unrecognized;;VCT;13.25;-61.2;23;8;Unrecognized;6;158
-Africa;Nigeria;Same-sex marriage is banned;2014;NGA;10;8;7;8;Illegal;7;182
-Asia;Maldives;Same-sex marriage is banned;2015;MDV;3.25;73;3;8;Illegal;7;189
-Europe;Moldova;Same-sex marriage is banned;1994;MDA;47;29;64;8;Illegal;7;104
-Africa;Sierra Leone;Same-sex marriage is banned;1861;SLE;8.5;-11.5;22;7;Illegal;7;160
+Africa;Nigeria;Same-sex marriage is banned;2014;NGA;10;8;7;8;Banned;7;182
+Asia;Maldives;Same-sex marriage is banned;2015;MDV;3.25;73;3;8;Banned;7;189
+Europe;Moldova;Same-sex marriage is banned;1994;MDA;47;29;64;8;Banned;7;104
+Africa;Sierra Leone;Same-sex marriage is banned;1861;SLE;8.5;-11.5;22;7;Banned;7;160
 Asia;Palestine;Same-sex marriage is unrecognized;;PSE;32;35.25;24;6;Unrecognized;6;159
-Africa;Zambia;Same-sex marriage is banned;2007;ZMB;-15;30;7;6;Illegal;7;186
-Africa;Malawi;Same-sex marriage is banned;2015;MWI;-13.5;34;9;6;Illegal;7;183
-Asia;Kuwait;Same-sex marriage is banned;;KWT;293.375;476.581;6;6;Illegal;7;188
-Asia;Jordan;Same-sex marriage is banned;;JOR;31;36;34;6;Illegal;7;146
-Europe;Azerbaijan;Same-sex marriage is banned;;AZE;40.5;47.5;30;6;Illegal;7;157
-Europe;Armenia;Same-sex marriage is banned;2004;ARM;40;45;43;6;Illegal;7;134
-Africa;Gambia;Same-sex marriage is banned;2005;GMB;134.667;-165.667;2;5;Illegal;7;193
-Africa;Senegal;Same-sex marriage is banned;1989;SEN;14;-14;6;4;Illegal;7;190
-Asia;Iran;Same-sex marriage is banned;1979;IRN;32;53;6;3;Illegal;7;192
-Asia;Afghanistan;Same-sex marriage is banned;1971;AFG;33;65;1;2;Illegal;7;196
+Africa;Zambia;Same-sex marriage is banned;2007;ZMB;-15;30;7;6;Banned;7;186
+Africa;Malawi;Same-sex marriage is banned;2015;MWI;-13.5;34;9;6;Banned;7;183
+Asia;Kuwait;Same-sex marriage is banned;;KWT;293.375;476.581;6;6;Banned;7;188
+Asia;Jordan;Same-sex marriage is banned;;JOR;31;36;34;6;Banned;7;146
+Europe;Azerbaijan;Same-sex marriage is banned;;AZE;40.5;47.5;30;6;Banned;7;157
+Europe;Armenia;Same-sex marriage is banned;2004;ARM;40;45;43;6;Banned;7;134
+Africa;Gambia;Same-sex marriage is banned;2005;GMB;134.667;-165.667;2;5;Banned;7;193
+Africa;Senegal;Same-sex marriage is banned;1989;SEN;14;-14;6;4;Banned;7;190
+Asia;Iran;Same-sex marriage is banned;1979;IRN;32;53;6;3;Banned;7;192
+Asia;Afghanistan;Same-sex marriage is banned;1971;AFG;33;65;1;2;Banned;7;196
 Oceania;Samoa;Same-sex marriage is unrecognized;;WSM;-135.833;-1.723.333;21;0;Unrecognized;6;141
 Oceania;Solomon Islands;Same-sex marriage is unrecognized;;SLB;-8;159;23;0;Unrecognized;6;139
 Oceania;Papua New Guinea;Same-sex marriage is unrecognized;;PNG;-6;147;26;0;Unrecognized;6;132
@@ -183,17 +183,17 @@ Oceania;Kiribati;Same-sex marriage is unrecognized;;KIR;14.167;173;28;0;Unrecogn
 Africa;Equatorial Guinea;Same-sex marriage is unrecognized;;GNQ;2;10;38;0;Unrecognized;6;98
 Africa;Eritrea;Same-sex marriage is unrecognized;1957;ERI;15;39;5;0;Unrecognized;6;191
 Africa;Djibouti;Same-sex marriage is unrecognized;;DJI;11.5;43;37;0;Unrecognized;6;100
-Europe;Vatican City;Same-sex marriage is banned;;VAT;41.9;12.45;35;0;Illegal;7;110
-Oceania;Tuvalu;Same-sex marriage is banned;2023;TUV;-8;178;27;0;Illegal;7;130
-Oceania;Tonga;Same-sex marriage is banned;1998;TON;-20;-175;21;0;Illegal;7;144
-Asia;Turkmenistan;Same-sex marriage is banned;;TKM;40;60;20;0;Illegal;7;147
-Asia;Tajikistan;Same-sex marriage is banned;2008;TJK;39;71;35;0;Illegal;7;108
-Africa;South Sudan;Same-sex marriage is banned;2011;SSD;8;30;7;0;Illegal;7;185
-Africa;Somalia;Same-sex marriage is banned;1975;SOM;10;49;1;0;Illegal;7;197
-Asia;North Korea;Same-sex marriage is banned;1990;PRK;40;127;34;0;Illegal;7;111
-Asia;Oman;Same-sex marriage is banned;;OMN;21;57;3;0;Illegal;7;195
-Oceania;Nauru;Same-sex marriage is banned;2018;NRU;-0.5333;1.669.167;48;0;Illegal;7;72
-Oceania;Marshall Islands;Same-sex marriage is banned;1988;MHL;9;168;57;0;Illegal;7;50
-Oceania;Fiji;Same-sex marriage is banned;2002;FJI;-18;175;60;0;Illegal;7;46
-Africa;Central African Republic;Same-sex marriage is banned;2016;CAF;7;21;30;0;Illegal;7;120
-Asia;Brunei;Same-sex marriage is banned;1951;BRN;4.5;1.146.667;3;0;Illegal;7;194
+Europe;Vatican City;Same-sex marriage is banned;;VAT;41.9;12.45;35;0;Banned;7;110
+Oceania;Tuvalu;Same-sex marriage is banned;2023;TUV;-8;178;27;0;Banned;7;130
+Oceania;Tonga;Same-sex marriage is banned;1998;TON;-20;-175;21;0;Banned;7;144
+Asia;Turkmenistan;Same-sex marriage is banned;;TKM;40;60;20;0;Banned;7;147
+Asia;Tajikistan;Same-sex marriage is banned;2008;TJK;39;71;35;0;Banned;7;108
+Africa;South Sudan;Same-sex marriage is banned;2011;SSD;8;30;7;0;Banned;7;185
+Africa;Somalia;Same-sex marriage is banned;1975;SOM;10;49;1;0;Banned;7;197
+Asia;North Korea;Same-sex marriage is banned;1990;PRK;40;127;34;0;Banned;7;111
+Asia;Oman;Same-sex marriage is banned;;OMN;21;57;3;0;Banned;7;195
+Oceania;Nauru;Same-sex marriage is banned;2018;NRU;-0.5333;1.669.167;48;0;Banned;7;72
+Oceania;Marshall Islands;Same-sex marriage is banned;1988;MHL;9;168;57;0;Banned;7;50
+Oceania;Fiji;Same-sex marriage is banned;2002;FJI;-18;175;60;0;Banned;7;46
+Africa;Central African Republic;Same-sex marriage is banned;2016;CAF;7;21;30;0;Banned;7;120
+Asia;Brunei;Same-sex marriage is banned;1951;BRN;4.5;1.146.667;3;0;Banned;7;194

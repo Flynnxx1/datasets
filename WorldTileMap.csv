@@ -1,0 +1,217 @@
+﻿country;countryCode;iso3;region;col;row
+Greenland;GRL;GRL;Europe;14;1
+North Macedonia;MKD;MKD;Europe;19;1
+Norway;NOR;NOR;Europe;20;1
+Serbia;SRB;SRB;Europe;21;1
+Iceland;ISL;ISL;Europe;16;2
+Faroe Islands;FRO;FRO;Europe;17;2
+United Kingdom;GBR;GBR;Europe;18;2
+Sweden;SWE;SWE;Europe;19;2
+Latvia;LVA;LVA;Europe;20;2
+Finland;FIN;FIN;Europe;21;2
+Czech Republic;CZE;CZE;Europe;22;2
+Ukraine;UKR;UKR;Europe;23;2
+Canada;CAN;CAN;North America;7;3
+Ireland;IRL;IRL;Europe;17;3
+Belgium;BEL;BEL;Europe;18;3
+Denmark;DNK;DNK;Europe;19;3
+Netherlands;NLD;NLD;Europe;20;3
+Poland;POL;POL;Europe;21;3
+Estonia;EST;EST;Europe;22;3
+Bulgaria;BGR;BGR;Europe;23;3
+Azerbaijan;AZE;AZE;Asia;24;3
+Kazakhstan;KAZ;KAZ;Asia;25;3
+Tajikistan;TJK;TJK;Asia;26;3
+Russia;RUS;RUS;Europe;27;3
+Portugal;PRT;PRT;Europe;16;4
+France;FRA;FRA;Europe;17;4
+Andorra;AND;AND;Europe;18;4
+Germany;DEU;DEU;Europe;19;4
+Lithuania;LTU;LTU;Europe;20;4
+Belarus;BLR;BLR;Europe;21;4
+Albania;ALB;ALB;Europe;22;4
+Montenegro;MNE;MNE;Europe;23;4
+Georgia (Europe);GEO;GEO;Europe;24;4
+Uzbekistan;UZB;UZB;Asia;25;4
+Kyrgyzstan;KGZ;KGZ;Asia;26;4
+Mongolia;MNG;MNG;Asia;29;4
+Korea North;PRK;PRK;Asia;31;4
+USA;USA;USA;North America;8;5
+Virgin Islands;VIR;VIR;North America;10;5
+Martinique;MTQ;MTQ;North America;11;5
+Bermuda;BMU;BMU;North America;12;5
+Saint Lucia;LCA;LCA;North America;13;5
+Gibraltar;GIB;GIB;Europe;16;5
+Monaco;MCO;MCO;Europe;17;5
+Italy;ITA;ITA;Europe;18;5
+Austria;AUT;AUT;Europe;19;5
+Liechtenstein;LIE;LIE;Europe;20;5
+Switzerland;CHE;CHE;Europe;21;5
+Croatia;HRV;HRV;Europe;22;5
+Moldova;MDA;MDA;Europe;23;5
+Chechnya;RUS;RUS;Europe;24;5
+Syria;SYR;SYR;Asia;25;5
+Turkmenistan;TKM;TKM;Asia;26;5
+Pakistan;PAK;PAK;Asia;27;5
+China incl. Hong Kong;CHN;CHN;Asia;28;5
+Korea South;KOR;KOR;Asia;31;5
+Japan;JPN;JPN;Asia;32;5
+Mexico;MEX;MEX;North America;8;6
+Cuba;CUB;CUB;North America;9;6
+Bahamas;BHS;BHS;North America;10;6
+Curacao;CUW;CUW;North America;11;6
+Puerto Rico;PRI;PRI;North America;12;6
+British Virgin Islands;VGB;VGB;North America;13;6
+St. Maarten;SXM;SXM;North America;14;6
+Guinea-Bissau;GNB;GNB;Africa;15;6
+Mauritania;MRT;MRT;Africa;16;6
+Vatican City;VAT;VAT;Europe;17;6
+San Marino;SMR;SMR;Europe;18;6
+Luxembourg;LUX;LUX;Europe;19;6
+Slovenia;SVN;SVN;Europe;20;6
+Bosnia-Herzegovina;BIH;BIH;Europe;21;6
+Hungary;HUN;HUN;Europe;22;6
+Cyprus;CYP;CYP;Europe;23;6
+Iraq;IRQ;IRQ;Asia;24;6
+Armenia;ARM;ARM;Europe;25;6
+Afghanistan;AFG;AFG;Asia;26;6
+India;IND;IND;Asia;27;6
+Bangladesh;BGD;BGD;Asia;28;6
+Macao;MAC;MAC;Asia;29;6
+Taiwan;TWN;TWN;Asia;30;6
+El Salvador;SLV;SLV;North America;8;7
+Belize;BLZ;BLZ;North America;9;7
+Honduras;HND;HND;North America;10;7
+Aruba;ABW;ABW;North America;11;7
+Haiti;HTI;HTI;North America;12;7
+Barbados;BRB;BRB;North America;13;7
+Guadeloupe;GLP;GLP;North America;14;7
+Cabo Verde;CPV;CPV;Africa;15;7
+Morocco;MAR;MAR;Africa;16;7
+Malta;MLT;MLT;Europe;17;7
+Spain;ESP;ESP;Europe;18;7
+Romania;ROU;ROU;Europe;19;7
+Kosovo;XKX;XKX;Europe;20;7
+Slovakia;SVK;SVK;Europe;21;7
+Greece;GRC;GRC;Europe;22;7
+Israel;ISR;ISR;Asia;23;7
+Jordan;JOR;JOR;Asia;24;7
+Iran;IRN;IRN;Asia;25;7
+Oman;OMN;OMN;Asia;26;7
+Nepal;NPL;NPL;Asia;27;7
+Bhutan;BTN;BTN;Asia;28;7
+Laos;LAO;LAO;Asia;29;7
+Vietnam;VNM;VNM;Asia;30;7
+Philippines;PHL;PHL;Asia;31;7
+Guam;GUM;GUM;Oceania;32;7
+Kiribati;KIR;KIR;Oceania;2;8
+Nicaragua;NIC;NIC;North America;8;8
+Guatemala;GTM;GTM;North America;9;8
+Jamaica;JAM;JAM;North America;10;8
+Dominican Republic;DOM;DOM;North America;11;8
+Antigua & Barbuda;ATG;ATG;North America;12;8
+Dominica;DMA;DMA;North America;13;8
+Trinidad & Tobago;TTO;TTO;North America;14;8
+Ivory Coast;CIV;CIV;Africa;15;8
+Gambia;GMB;GMB;Africa;16;8
+Senegal;SEN;SEN;Africa;17;8
+Algeria;DZA;DZA;Africa;18;8
+Tunisia;TUN;TUN;Africa;19;8
+Libya;LBY;LBY;Africa;20;8
+North Cyprus;CYP;CYP;Europe;21;8
+Lebanon;LBN;LBN;Asia;22;8
+Turkey;TUR;TUR;Europe;23;8
+Saudi Arabia;SAU;SAU;Asia;24;8
+Bahrain;BHR;BHR;Asia;25;8
+Maldives;MDV;MDV;Asia;26;8
+Myanmar;MMR;MMR;Asia;27;8
+Cambodia;KHM;KHM;Asia;28;8
+Thailand;THA;THA;Asia;29;8
+Brunei;BRN;BRN;Asia;30;8
+Palau;PLW;PLW;Oceania;31;8
+Micronesia;FSM;FSM;Oceania;34;8
+Marshall Islands;MHL;MHL;Oceania;35;8
+Peru;PER;PER;South America;8;9
+Panama;PAN;PAN;North America;9;9
+Costa Rica;CRI;CRI;North America;10;9
+Saint Kitts and Nevis;KNA;KNA;North America;11;9
+Grenada;GRD;GRD;North America;12;9
+Saint Vincent and the Grenadines;VCT;VCT;North America;13;9
+Sierra Leone;SLE;SLE;Africa;15;9
+Guinea;GIN;GIN;Africa;16;9
+Mali;MLI;MLI;Africa;17;9
+Burkina Faso;BFA;BFA;Africa;18;9
+Niger;NER;NER;Africa;19;9
+Chad;TCD;TCD;Africa;20;9
+Egypt;EGY;EGY;Africa;21;9
+Qatar;QAT;QAT;Asia;22;9
+Kuwait;KWT;KWT;Asia;23;9
+United Arab Emirates;ARE;ARE;Asia;24;9
+Yemen;YEM;YEM;Asia;25;9
+Sri Lanka;LKA;LKA;Asia;26;9
+Malaysia;MYS;MYS;Asia;27;9
+Indonesia/Aceh;IDN;IDN;Asia;28;9
+Singapore;SGP;SGP;Asia;29;9
+East Timor;TLS;TLS;Asia;31;9
+Papua New Guinea;PNG;PNG;Oceania;32;9
+Solomon Islands;SLB;SLB;Oceania;34;9
+Tuvalu;TUV;TUV;Oceania;36;9
+Samoa;WSM;WSM;Oceania;1;10
+French Polynesia;PYF;PYF;Oceania;3;10
+Ecuador;ECU;ECU;South America;9;10
+Venezuela;VEN;VEN;South America;10;10
+Colombia;COL;COL;South America;11;10
+Guyana;GUY;GUY;South America;12;10
+Suriname;SUR;SUR;South America;13;10
+Togo;TGO;TGO;Africa;16;10
+Liberia;LBR;LBR;Africa;17;10
+Benin;BEN;BEN;Africa;18;10
+Ghana;GHA;GHA;Africa;19;10
+Cameroon;CMR;CMR;Africa;20;10
+Sudan;SDN;SDN;Africa;21;10
+Djibouti;DJI;DJI;Africa;22;10
+Eritrea;ERI;ERI;Africa;23;10
+Ethiopia;ETH;ETH;Africa;24;10
+Somalia;SOM;SOM;Africa;25;10
+Indonesia;IDN;IDN;Asia;29;10
+Vanuatu;VUT;VUT;Oceania;35;10
+Fiji;FJI;FJI;Oceania;36;10
+Tonga;TON;TON;Oceania;0;11
+Cook Islands;COK;COK;Oceania;2;11
+Paraguay;PRY;PRY;South America;11;11
+Bolivia;BOL;BOL;South America;12;11
+Brazil;BRA;BRA;South America;13;11
+Gabon;GAB;GAB;Africa;17;11
+Nigeria;NGA;NGA;Africa;18;11
+Equatorial Guinea;GNQ;GNQ;Africa;19;11
+Sao Tome and Principe;STP;STP;Africa;20;11
+Central African Rep.;CAF;CAF;Africa;21;11
+South Sudan;SSD;SSD;Africa;22;11
+Uganda;UGA;UGA;Africa;23;11
+Kenya;KEN;KEN;Africa;24;11
+Seychelles;SYC;SYC;Africa;25;11
+Reunion;REU;REU;Africa;26;11
+Australia;AUS;AUS;Oceania;31;11
+New Caledonia;NCL;NCL;Oceania;35;11
+Uruguay;URY;URY;South America;11;12
+Argentina;ARG;ARG;South America;12;12
+Angola;AGO;AGO;Africa;18;12
+Republic of the Congo;COG;COG;Africa;19;12
+Dem.Rep. of Congo;COD;COD;Africa;20;12
+Burundi;BDI;BDI;Africa;21;12
+Rwanda;RWA;RWA;Africa;22;12
+Tanzania;TZA;TZA;Africa;23;12
+Comoros Islands;COM;COM;Africa;24;12
+Madagascar;MDG;MDG;Africa;25;12
+New Zealand;NZL;NZL;Oceania;36;12
+Botswana;BWA;BWA;Africa;18;13
+Zimbabwe;ZWE;ZWE;Africa;19;13
+Mozambique;MOZ;MOZ;Africa;20;13
+Malawi;MWI;MWI;Africa;21;13
+Zambia;ZMB;ZMB;Africa;22;13
+Eswatini;SWZ;SWZ;Africa;23;13
+Mauritius;MUS;MUS;Africa;24;13
+Chile;CHL;CHL;South America;11;14
+Namibia;NAM;NAM;Africa;20;14
+Lesotho;LSO;LSO;Africa;21;14
+South Africa;ZAF;ZAF;Africa;22;14
